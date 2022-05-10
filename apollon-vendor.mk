@@ -56,10 +56,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/beauty_ui9_intelligent_params.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beauty_ui9_intelligent_params.config \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/bokehParams.json:$(TARGET_COPY_OUT_VENDOR)/etc/camera/bokehParams.json \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
+    vendor/xiaomi/apollon/proprietary/vendor/etc/displayconfig/display_id_4630946687422888065.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946687422888065.xml \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/com.xiaomi.dcal.wu.fake:$(TARGET_COPY_OUT_VENDOR)/etc/camera/com.xiaomi.dcal.wu.fake \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/com.xiaomi.dcal.wu.golden:$(TARGET_COPY_OUT_VENDOR)/etc/camera/com.xiaomi.dcal.wu.golden \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/com.xiaomi.dcal.wu.golden2:$(TARGET_COPY_OUT_VENDOR)/etc/camera/com.xiaomi.dcal.wu.golden2 \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/det_quantize.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/det_quantize.dlc \
+    vendor/xiaomi/apollon/proprietary/vendor/etc/ltm_config_xiaomi_37_02_0a_video_mode_dsc_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_xiaomi_37_02_0a_video_mode_dsc_dsi_panel.xml \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/eisoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/eisoverridesettings.txt \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/eyelineblush.cng:$(TARGET_COPY_OUT_VENDOR)/etc/camera/eyelineblush.cng \
     vendor/xiaomi/apollon/proprietary/vendor/etc/camera/goturn_search_dsp.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/goturn_search_dsp.dlc \
